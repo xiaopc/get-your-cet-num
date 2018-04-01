@@ -1,4 +1,6 @@
 # get your cet number
+> update 2018/4: THIS SCRIPT WON'T WORK NOW!
+
 as the title shows;)
 
 by xiaopc 2017
